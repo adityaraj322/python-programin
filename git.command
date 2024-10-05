@@ -25,3 +25,5 @@
    git status
   rm testing.py
   git restore testing.py
+
+thish is a new changes
